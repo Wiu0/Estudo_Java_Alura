@@ -3,6 +3,10 @@ package br.com.java.alura;
 
 public @interface Comentarios {
 
+	/*1.00.01 03/10/2017 - wiu
+	 *  - Estudo de list.
+	 */
+	
 	/*1.00.00 03/10/2017 - wiu
 	 *  - Testando commit em Macbook.
 	 */
